@@ -1,0 +1,24 @@
+{
+  "name": "sla",
+  "version": "1.0.0",
+  "main": "bundle.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ironhack-miami-ftwd-august-2019/Slasher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ironhack-miami-ftwd-august-2019/Slasher/issues"
+  },
+  "homepage": "https://github.com/ironhack-miami-ftwd-august-2019/Slasher#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
